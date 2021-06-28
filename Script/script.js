@@ -20,10 +20,7 @@ let start = document.getElementById('start');
 start.addEventListener('mouseover', function(){
 start.style.color='#FFFFFFdc';
 start.style.backgroundColor='#215ecfec';
-start.style.padding='20px';
-start.style.width='60%';
-start.style.fontSize='22px';
-start.style.marginTop='10%';
+
 
 
 
@@ -31,8 +28,5 @@ start.style.marginTop='10%';
 start.addEventListener('mouseout', function(){
     start.style.color='#FFFFFF';
     start.style.backgroundColor='#2f6fe6ec';
-    start.style.padding='15px';
-    start.style.width='50%';
-    start.style.fontSize='18px';
-    start.style.marginTop='12%';
+
 })
