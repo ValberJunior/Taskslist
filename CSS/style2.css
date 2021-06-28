@@ -222,7 +222,6 @@ body{
 
     body{
         background-image:url("../Assets/mobile2.png");
-        background-attachment: fixed;
 
         overflow: hidden;
 
