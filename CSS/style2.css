@@ -221,6 +221,8 @@ body{
 @media screen and (max-width: 450px){
 
     body{
+
+        background-color:#996DC9;
         background-image:url("../Assets/mobile2.png");
         background-size: cover;
         background-attachment: fixed;
