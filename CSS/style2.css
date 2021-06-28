@@ -224,12 +224,14 @@ body{
         background-image:url("../Assets/mobile2.png");
         background-attachment: fixed;
 
+        overflow: hidden;
+
     }
     
     .inputContainer{
         max-width: 330px;
         overflow: hidden;
-        background-color:#892be2b2;
+        background-color:#32075ab2;
     
         padding:3%;
     

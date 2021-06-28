@@ -19,10 +19,14 @@ h2.addEventListener('mouseout', function(){
 let start = document.getElementById('start');
 start.addEventListener('mouseover', function(){
 start.style.color='#FFFFFFdc';
-start.style.backgroundColor='#215ecfec';
+start.style.backgroundColor='#1768ffec';
+start.style.width='51%';
+})
 
-
-
+start.addEventListener('mouseout', function(){
+    start.style.color='#FFFFFF';
+    start.style.backgroundColor='#215ecfec';
+    start.style.width='50%';
 
 })
 start.addEventListener('mouseout', function(){
