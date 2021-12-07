@@ -7,8 +7,7 @@ https://user-images.githubusercontent.com/84424883/123704977-adc5f080-d83c-11eb-
 # Taskslist
 Uma nova versão do projeto LocalStorage
 
-- Netlify 👉 
-https://user-images.githubusercontent.com/84424883/123704695-5293fe00-d83c-11eb-908d-6bb0468c287e.mp4
+- Netlify 👉 https://organizemytaskslist.netlify.app
 
 
 Tecnologias utilizadas:
